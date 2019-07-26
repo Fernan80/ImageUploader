@@ -1,0 +1,1 @@
+The purpose of the Java file is to create an image uploader using Java's classes
